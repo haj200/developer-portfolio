@@ -12,8 +12,6 @@ export const skillsData = [
   'Git',
   'Figma',
   'UML',
-  'Java EE',
-  'MVC',
   'React',
   'Firebase',
   'MaterialUI',
