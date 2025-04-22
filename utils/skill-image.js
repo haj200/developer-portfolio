@@ -81,7 +81,8 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
-
+import laravel from '../app/assets/svg/skills/laravel.svg'
+import uml from '../app/assets/svg/skills/uml.svg'
 
 
 export const skillsImage = (skill) => {
@@ -251,6 +252,10 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'laravel':
+      return laravel;
+    case 'uml':
+      return uml;
     default:
       break;
   }
