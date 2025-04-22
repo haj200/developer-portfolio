@@ -25,7 +25,35 @@ export const projectsData = [
     role: 'Full Stack Developer',
     code: '',
     demo: '',
+},
+   {
+    id: 3,
+    name: 'ThreatDetect – Insider Threat Detection System',
+    description: "A research-based application designed to detect insider threats within organizations using behavioral analysis. Combines NoSQL for scalable data handling and Machine Learning for real-time anomaly detection. Focused on security and proactive threat identification.",
+    tools: ['NoSQL', 'Python', 'Machine Learning', 'Scikit-learn', 'Data Analysis'],
+    role: 'Researcher & ML Developer',
+    code: '',
+    demo: '',
+},
+{
+    id: 4,
+    name: 'FlatRent – Mobile App for Apartment Rentals',
+    description: "A mobile application for browsing, listing, and reserving apartments. Offers features for landlords to publish properties and for users to filter, search, and reserve based on preferences. Designed with a clean UI and integrated with real-time data.",
+    tools: ['Android', 'Java', 'Firebase', 'XML'],
+    role: 'Mobile App Developer',
+    code: '',
+    demo: '',
+},
+{
+    id: 5,
+    name: 'WorkSpace Reserve – Coworking Reservation System',
+    description: "A web solution for reserving coworking spaces and managing availability in real time. Users can book by date, time, and location, while administrators manage schedules and resources. Built with Java EE and follows MVC design.",
+    tools: ['Java EE', 'MySQL', 'HTML', 'CSS', 'Servlets'],
+    role: 'Full Stack Developer',
+    code: '',
+    demo: '',
 }
+
 ]
 
 
