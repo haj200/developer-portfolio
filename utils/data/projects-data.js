@@ -18,7 +18,7 @@ export const projectsData = [
     demo: '',
 },
 {
-    id: 3,
+    id: 6,
     name: 'Auxiliaire – Authority Management System',
     description: "A Laravel web app developed for the Ministry of Interior (Taroudant) to manage auxiliary authorities and their families. Features include user roles, CRUD operations, PDF/Excel exports, statistics, and identity card generation. Designed with the Merise methodology.",
     tools: ['Laravel', 'MySQL', 'PHP', 'Blade', 'Bootstrap', 'Merise'],
