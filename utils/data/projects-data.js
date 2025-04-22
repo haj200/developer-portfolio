@@ -17,15 +17,7 @@ export const projectsData = [
     code: '',
     demo: '',
 },
-{
-    id: 6,
-    name: 'Auxiliaire – Authority Management System',
-    description: "A Laravel web app developed for the Ministry of Interior (Taroudant) to manage auxiliary authorities and their families. Features include user roles, CRUD operations, PDF/Excel exports, statistics, and identity card generation. Designed with the Merise methodology.",
-    tools: ['Laravel', 'MySQL', 'PHP', 'Blade', 'Bootstrap', 'Merise'],
-    role: 'Full Stack Developer',
-    code: '',
-    demo: '',
-},
+
    {
     id: 3,
     name: 'ThreatDetect – Insider Threat Detection System',
@@ -49,6 +41,15 @@ export const projectsData = [
     name: 'WorkSpace Reserve – Coworking Reservation System',
     description: "A web solution for reserving coworking spaces and managing availability in real time. Users can book by date, time, and location, while administrators manage schedules and resources. Built with Java EE and follows MVC design.",
     tools: ['Java EE', 'MySQL', 'HTML', 'CSS', 'Servlets'],
+    role: 'Full Stack Developer',
+    code: '',
+    demo: '',
+},
+   {
+    id: 6,
+    name: 'Auxiliaire – Authority Management System',
+    description: "A Laravel web app developed for the Ministry of Interior (Taroudant) to manage auxiliary authorities and their families. Features include user roles, CRUD operations, PDF/Excel exports, statistics, and identity card generation. Designed with the Merise methodology.",
+    tools: ['Laravel', 'MySQL', 'PHP', 'Blade', 'Bootstrap', 'Merise'],
     role: 'Full Stack Developer',
     code: '',
     demo: '',
