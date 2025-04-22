@@ -26,7 +26,7 @@ export const projectsData = [
     code: '',
     demo: '',
 }
-];
+]
 
 
 // Do not remove any property.
